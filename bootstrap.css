@@ -1,0 +1,31 @@
+* { 
+    box-sizing: border-box;
+    margin: 0;
+  }
+ .navbar {
+   background-color: #FCD34D;
+ }
+ .navbar-brand  {
+   color: blue;
+ }
+ .nav-item a{ 
+   color: blue;
+ }
+ .btn-warning {
+   background-color: #FCD34D;
+   color: white;
+ }
+ .app-sec {
+   background-color: #FCD34D;
+ }
+ .app-store {
+   display: flex;
+   flex-direction: row;
+   justify-content: center;
+ }
+ .app-store-icon {
+   padding-left: 33%;
+ }
+ .ftr-txt {
+   color: #212529;
+ }
